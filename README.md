@@ -1,6 +1,5 @@
 # Previsione vendite prodotti 📊
 
-## Descrizione
 Questo progetto affronta un problema di **regressione** applicato al settore delle vendite.  
 L’obiettivo è stimare le quantità vendute di determinati prodotti sulla base di caratteristiche tecniche e variabili di contesto, utilizzando un dataset disponibile su **Kaggle**.
 
